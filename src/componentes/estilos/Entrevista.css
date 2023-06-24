@@ -1,0 +1,107 @@
+.contenedor-entrevista{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 13px 1px rgb(0 0 0 / 9%)  ;
+}
+.imagen-entrevista{
+    height: 60%;
+    width: 40%; 
+}
+.contenedor-texto-entrevista{
+    width: 80%;
+    text-align: center;
+    padding: 40px;
+    font-family: Lato,sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.nombre-entrevista{
+    font-size: 1.5rem;
+}
+.texto-entrevista{
+    font-size: 1rem;
+    text-align: justify;
+}
+
+.contenedor1-entrevista{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 13px 1px rgb(0 0 0 / 9%)  ;
+}
+.imagen1-entrevista{
+    height: 60%;
+    width: 40%; 
+}
+.contenedor1-texto-entrevista{
+    width: 80%;
+    text-align: center;
+    padding: 40px;
+    font-family: Lato,sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.nombre1-entrevista{
+    font-size: 1.5rem;
+}
+.texto1-entrevista{
+    font-size: 0.9rem;
+    text-align: justify;
+}
+
+.contenedor2-entrevista{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 13px 1px rgb(0 0 0 / 9%)  ;
+}
+.imagen2-entrevista{
+    height: 60%;
+    width: 40%; 
+}
+.contenedor2-texto-entrevista{
+    width: 80%;
+    text-align: center;
+    padding: 40px;
+    font-family: Lato,sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.nombre2-entrevista{
+    font-size: 1.5rem;
+}
+.texto2-entrevista{
+    font-size: 0.7rem;
+    text-align: justify;
+}
+.imagen4-entrevista{
+    height: 100%;
+    width: 50%; 
+    align-items: center;
+}
+.contenedor{
+    justify-content: space-between;
+}
+.pasto-entrevista{
+    justify-content: space-between;
+    width: 50%;
+    height: 350;
+}
+.pasto1-entrevista{
+    justify-content: space-between;
+    width: 50%;
+    height: 350;
+}
