@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Paris-roubaix-ciclismo/static/css/main.c5b5e82f.css",
+    "main.js": "/Paris-roubaix-ciclismo/static/js/main.448e4e54.js",
+    "static/media/movilidad.jpeg": "/Paris-roubaix-ciclismo/static/media/movilidad.149583dd79895e706e17.jpeg",
+    "static/media/eco.jpeg": "/Paris-roubaix-ciclismo/static/media/eco.3907399797ba27013d9b.jpeg",
+    "static/media/carrera.jpeg": "/Paris-roubaix-ciclismo/static/media/carrera.7019724046122779b318.jpeg",
+    "static/media/historia.jpg": "/Paris-roubaix-ciclismo/static/media/historia.54802a994d84ffc7c219.jpg",
+    "static/media/adoquines.jpeg": "/Paris-roubaix-ciclismo/static/media/adoquines.dee205d9b8f4a95ab3a6.jpeg",
+    "static/media/pasto2.jpeg": "/Paris-roubaix-ciclismo/static/media/pasto2.9c71e895ee6ea0672554.jpeg",
+    "static/media/ruta1.jpg": "/Paris-roubaix-ciclismo/static/media/ruta1.a8caf1875cf5a9248c17.jpg",
+    "static/media/pasto1.jpeg": "/Paris-roubaix-ciclismo/static/media/pasto1.f7a3a34b0275241e5f44.jpeg",
+    "static/media/ruta2.jpg": "/Paris-roubaix-ciclismo/static/media/ruta2.47a1994e898404de3ea9.jpg",
+    "static/media/ruta3.jpeg": "/Paris-roubaix-ciclismo/static/media/ruta3.07706a27206a3047b92e.jpeg",
+    "static/media/ultimo.png": "/Paris-roubaix-ciclismo/static/media/ultimo.56f57e30bb4960474c3a.png",
+    "index.html": "/Paris-roubaix-ciclismo/index.html",
+    "main.c5b5e82f.css.map": "/Paris-roubaix-ciclismo/static/css/main.c5b5e82f.css.map",
+    "main.448e4e54.js.map": "/Paris-roubaix-ciclismo/static/js/main.448e4e54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b5e82f.css",
+    "static/js/main.448e4e54.js"
+  ]
+}
